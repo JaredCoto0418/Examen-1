@@ -1,0 +1,32 @@
+[
+  {
+    "Id": "100",
+    "IdEstudiante": "b3f6d2b2-e29e-4c67-b1c3-1f17f3de1cfb",
+    "Materia": "Matemáticas",
+    "Nota": 10.0
+  },
+  {
+    "Id": "101",
+    "IdEstudiante": "a5d3e2a4-1f5e-4877-b10d-fd8b1f01e8f6",
+    "Materia": "Historia",
+    "Nota": 8.0
+  },
+  {
+    "Id": "102",
+    "IdEstudiante": "c9d7f4b6-63d6-4b1e-8a47-9c1e4f5b12e7",
+    "Materia": "Ciencias",
+    "Nota": 9.0
+  },
+  {
+    "Id": "103",
+    "IdEstudiante": "d2f8b5c8-2e29-4016-9b0f-78f4c1e3f2d9",
+    "Materia": "Inglés",
+    "Nota": 7.0
+  },
+  {
+    "Id": "5100f2dc-b787-424f-b4a8-ea8061aaf6aa",
+    "IdEstudiante": "d9a1f4e2-6e3b-4c5d-9b1f-0e3d7f1a2e4b",
+    "Materia": "Matematicas",
+    "Nota": 10.0
+  }
+]
